@@ -54,7 +54,6 @@ body {
     --_thanks-display: var(--thanks-display, none);
     max-width: var(--card-max-width);
     border-radius: var(--border-radius);
-    /* background-color: hsl(var(--clr-neutral-700-hsl), 0.7); */
     background-image: radial-gradient(
         circle at top,
         hsl(var(--clr-neutral-700-hsl), 0.7) 6%, 
